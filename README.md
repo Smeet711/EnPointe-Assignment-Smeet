@@ -25,8 +25,7 @@ This project is a simple banking system frontend built using React. It showcases
 ### Steps
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/react-banking-system.git
-    cd react-banking-system
+    https://github.com/Smeet711/EnPointe-Assignment-Smeet.git
     ```
 
 2. **Install dependencies**
